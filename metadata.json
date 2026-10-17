@@ -1,0 +1,6 @@
+{
+  "name": "AuraCare - Medical & Emotional Health Companion",
+  "description": "Comprehensive symptom-based illness prediction, emergency 108/112 escalation, doctor teleconsultation, empathetic emotional health care, journaling, and stress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
